@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ebdl/!svn/ver/37/dotnet/ArcGISTool/ArcGISTool/bin/Debug/CoordinateSystem
+END
+WGS 1984.prj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ebdl/!svn/ver/37/dotnet/ArcGISTool/ArcGISTool/bin/Debug/CoordinateSystem/WGS%201984.prj
+END
+NAD 1983 UTM Zone 6N.prj
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ebdl/!svn/ver/37/dotnet/ArcGISTool/ArcGISTool/bin/Debug/CoordinateSystem/NAD%201983%20UTM%20Zone%206N.prj
+END
+Alaska Albers Equal Area Conic.prj
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ebdl/!svn/ver/37/dotnet/ArcGISTool/ArcGISTool/bin/Debug/CoordinateSystem/Alaska%20Albers%20Equal%20Area%20Conic.prj
+END
